@@ -6,10 +6,12 @@ function App() {
 
   return (
     <>
-    <Navbar/>
-      <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+      <Navbar />
+      <div className="pt-5" style={{ backgroundColor: 'beige', height: screen.height }}>
+        <div className="tasks bg-green-600/20 mx-4 w-5xl rounded-xl px-5"> 
+        <div className="heading text-2xl font-bold font-[Nunito] p-3">Your tasks</div>
+        </div>
+      </div>
     </>
   )
 }
