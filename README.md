@@ -82,7 +82,7 @@
 ## 📸 **Demo Screenshots**
 <img width="1902" height="1098" alt="Screenshot 2025-11-16 021703" src="https://github.com/user-attachments/assets/a6dfda7e-f481-40c9-8f4f-a78e6c9b6ecb" />
 <img width="1895" height="1101" alt="Screenshot 2025-11-16 021803" src="https://github.com/user-attachments/assets/86a0b01b-c391-4deb-8b28-7e186758bcdf" />
-<img width="1895" height="1101" alt="Screenshot 2025-11-16 021803" src="https://github.com/user-attachments/assets/9d2d5043-6437-4e2b-b151-fc7c9fc7cd88" />
+<img width="1080" height="2340" alt="Screenshot 2025-11-16 021803" src="https://github.com/user-attachments/assets/9d2d5043-6437-4e2b-b151-fc7c9fc7cd88" />
 
 
 
