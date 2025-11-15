@@ -39,9 +39,8 @@ export default function WeeklyCalendar() {
     dateObj.getFullYear() === today.getFullYear();
 
   return (
-    <div className="p-4 bg-green-600/20 rounded-xl w-[26.5%] flex flex-col gap-4">
+    <div className="p-4 bg-green-600/20 rounded-xl h-[fit] w-[full] flex flex-col gap-4">
 
-      {/* ⭐ MONTH HEADER WITH ARROWS */}
       <div className="flex justify-between items-center px-2">
         <button
           className="p-2 bg-green-950/75 text-white rounded-full hover:bg-green-800"
@@ -78,7 +77,7 @@ export default function WeeklyCalendar() {
         ))}
       </div>
 
-      <div className="flex gap-2 w-full justify-between">
+      <div className="flex gap-2 w-full justify-between ">
         {weekDates.map((dateObj, index) => (
           <div
             key={index}
