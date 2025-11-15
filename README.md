@@ -82,8 +82,7 @@
 ## 📸 **Demo Screenshots**
 <img width="1902" height="1098" alt="Screenshot 2025-11-16 021703" src="https://github.com/user-attachments/assets/a6dfda7e-f481-40c9-8f4f-a78e6c9b6ecb" />
 <img width="1895" height="1101" alt="Screenshot 2025-11-16 021803" src="https://github.com/user-attachments/assets/86a0b01b-c391-4deb-8b28-7e186758bcdf" />
-![WhatsApp Image 2025-11-16 at 02 23 12 (1)](https://github.com/user-attachments/assets/04b7719f-6877-4bea-ab88-4dcf59367183)
-![WhatsApp Image 2025-11-16 at 02 23 12](https://github.com/user-attachments/assets/99bd2d61-5c4f-4b65-aa62-c5eb9b2248c7)
+<img width="1895" height="1101" alt="Screenshot 2025-11-16 021803" src="https://github.com/user-attachments/assets/9d2d5043-6437-4e2b-b151-fc7c9fc7cd88" />
 
 
 
