@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import WeeklyCalendar from "./components/WeeklyCalendar";
 import { FaEdit } from "react-icons/fa";
 import { MdDelete } from "react-icons/md";
