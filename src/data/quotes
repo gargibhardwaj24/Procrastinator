@@ -1,0 +1,10 @@
+export const quotes = [
+  '“You may delay, but time will not.”',
+  '"It is easier to resist at the beginning than at the end"',
+  '“My advice is, never do to-morrow what you can do today. Procrastination is the thief of time. Collar him!”',
+  '“Life always begins with one step outside of your comfort zone.”',
+  '“Never leave till tomorrow that which you can do today.”',
+  '“Procrastination is the art of keeping up with yesterday”',
+  '“Procrastination is not Laziness, It is fear. Call it by its right name.”',
+  '"Every accomplishment starts with the decision to try."'
+];
