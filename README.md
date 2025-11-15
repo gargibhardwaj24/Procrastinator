@@ -80,9 +80,32 @@
 ---
 
 ## 📸 **Demo Screenshots**
-<img width="1902" height="1098" alt="Screenshot 2025-11-16 021703" src="https://github.com/user-attachments/assets/a6dfda7e-f481-40c9-8f4f-a78e6c9b6ecb" />
-<img width="1895" height="1101" alt="Screenshot 2025-11-16 021803" src="https://github.com/user-attachments/assets/86a0b01b-c391-4deb-8b28-7e186758bcdf" />
-<img width="1080" height="2340" alt="Screenshot 2025-11-16 021803" src="https://github.com/user-attachments/assets/9d2d5043-6437-4e2b-b151-fc7c9fc7cd88" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/86a0b01b-c391-4deb-8b28-7e186758bcdf"
+    alt="Homepage"
+    style="width:750px; height:auto; max-width:100%;"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github.com/user-attachments/assets/a6dfda7e-f481-40c9-8f4f-a78e6c9b6ecb"
+    alt="tasks"
+    style="width:750px; height:auto; max-width:100%;"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/9d2d5043-6437-4e2b-b151-fc7c9fc7cd88"
+    alt="Mobile View"
+    style="width:320px; height:auto; max-width:100%;"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github.com/user-attachments/assets/5efb6969-df45-44d2-80ea-776d8d0deb30"
+    alt="Side Bar"
+    style="width:320px; height:auto; max-width:100%;"
+  />
+</p>
 
 
 
